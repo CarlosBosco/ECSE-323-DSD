@@ -100,5 +100,16 @@ vsim.dbg
 *.sdo
 *.sft
 *.xrf
+*.jdi
+*.cdf
+*.vho
+*.cdb
+*.hdb
+*.kpt
+*.dpi
+*.sig
+*.tdf
+*.qmsg
+*.rdb
 
 # End of https://www.gitignore.io/api/macos,alteraquartusii,modelsim
