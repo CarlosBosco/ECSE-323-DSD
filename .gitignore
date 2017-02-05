@@ -111,5 +111,11 @@ vsim.dbg
 *.tdf
 *.qmsg
 *.rdb
+*.ddb
+*.logdb
+*.ipinfo
+*.ammdb
+*.tdb
+*.sci
 
 # End of https://www.gitignore.io/api/macos,alteraquartusii,modelsim
