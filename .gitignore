@@ -39,30 +39,6 @@
 # software binary files
 ### tbd
 
-/*
-!/*.gitignore
-##
-!*.qpf
-!*.qsf
-!*.qws
-##
-!*.bdf
-!*.vhd
-!*.v
-##
-!*.ptf
-!*.bsf
-##
-!**/class.ptf
-##
-!*.tbd
-##
-!*.sof
-##
-## tbd
-
-!*.tcl
-
 ### macOS ###
 *.DS_Store
 .AppleDouble

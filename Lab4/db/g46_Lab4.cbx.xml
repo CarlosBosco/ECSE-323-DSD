@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="g46_Lab4">
+		<CBX_INST_ENTRY INSTANCE_NAME="|g46_VGA_Test_Pattern|LPM_COUNTER:counterS" CBX_FILE_NAME="cntr_9bi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|g46_VGA_Test_Pattern|fontROM:rom|altsyncram:ROM_rtl_0" CBX_FILE_NAME="altsyncram_gm61.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|g46_VGA_Test_Pattern|g46_VGA:vga1|LPM_COUNTER:counterH" CBX_FILE_NAME="cntr_mpi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|g46_VGA_Test_Pattern|g46_VGA:vga1|LPM_COUNTER:counterV" CBX_FILE_NAME="cntr_cej.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

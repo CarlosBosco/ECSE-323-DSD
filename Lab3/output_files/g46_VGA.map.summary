@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Nov 11 23:37:52 2016
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : g46_VGA
+Top-level Entity Name : g46_VGA
+Family : Cyclone II
+Total logic elements : 1,065
+    Total combinational functions : 579
+    Dedicated logic registers : 804
+Total registers : 804
+Total pins : 25
+Total virtual pins : 0
+Total memory bits : 69,632
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
