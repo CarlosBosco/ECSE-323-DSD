@@ -117,5 +117,16 @@ vsim.dbg
 *.ammdb
 *.tdb
 *.sci
-
+*.xml
+*.bpm
+*.idb
+*.db_info
+*.hier_info
+*.hif
+*.syn_hier_info
+*.txt
+*.db_info
+*.dfp
+*.hb_info
+*.rcfdb
 # End of https://www.gitignore.io/api/macos,alteraquartusii,modelsim
