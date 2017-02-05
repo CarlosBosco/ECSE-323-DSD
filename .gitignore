@@ -92,4 +92,13 @@ transcript*
 sc_dpiheader.h
 vsim.dbg
 
+*.summary
+*.rpt
+*.done
+*.smsg
+*.pin
+*.sdo
+*.sft
+*.xrf
+
 # End of https://www.gitignore.io/api/macos,alteraquartusii,modelsim
